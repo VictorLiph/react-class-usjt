@@ -1,0 +1,19 @@
+div #card-body {
+    background-color: rgba(230, 230, 230, 0.445);
+}
+
+div #card-top {
+    background-color: rgba(0, 0, 0, 0.808);
+
+}
+
+div #card-core {
+    display: grid;
+
+    place-items: center;
+}
+
+div #card-top-text {
+    color: white;
+    font-size: large;
+}
